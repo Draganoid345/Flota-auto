@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1591441563 source:c:\users\user\desktop\cpp\p2\flota auto\main.cpp
+	<bits/stdc++.h>
+	"Autoturism.h"
+	"Camion.h"
+	"Serviciu.h"
+	"Autobuz.h"
+
+1591433742 source:c:\users\user\desktop\cpp\p2\flota auto\src\autobuz.cpp
+	"Autobuz.h"
+
+1591434499 c:\users\user\desktop\cpp\p2\flota auto\include\autobuz.h
+	"Autoturism.h"
+
+1591441178 c:\users\user\desktop\cpp\p2\flota auto\include\autoturism.h
+	<bits/stdc++.h>
+
+1591441199 source:c:\users\user\desktop\cpp\p2\flota auto\src\autoturism.cpp
+	"Autoturism.h"
+
+1591433572 source:c:\users\user\desktop\cpp\p2\flota auto\src\serviciu.cpp
+	"Serviciu.h"
+
+1591437517 c:\users\user\desktop\cpp\p2\flota auto\include\serviciu.h
+	"Autoturism.h"
+
+1591462124 source:c:\users\user\desktop\cpp\p2\flota auto\src\camion.cpp
+	"Camion.h"
+
+1591433641 c:\users\user\desktop\cpp\p2\flota auto\include\camion.h
+	"Autoturism.h"
+
